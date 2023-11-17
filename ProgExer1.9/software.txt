@@ -1,0 +1,52 @@
+Norton Utilities
+-
+10
+30
+Norton SystemWorks
+2003
+6
+50
+Cedrick
+1
+2
+580
+Visual J++ Professional
+6.0
+19
+100
+Visual J++ Standard
+6.0
+27
+40
+asdas
+2
+332
+100
+arj
+23
+2
+100
+pretty
+23
+1
+200
+jk
+23
+1
+200
+dsada
+2
+23
+22
+asdasd
+2
+232
+2
+iOS
+17
+500
+500
+sadasda
+23
+232
+2
